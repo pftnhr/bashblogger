@@ -1,6 +1,7 @@
 TODO
 ----------
 
+* check if the code is up-to-date
 * moblog support via procmail (have posting via email tenatively 
   working in 0.3.7)
 * multiple enclosures (does anybody really need this?)
